@@ -8,6 +8,7 @@ A list of the ML and DL algorithms that have been used are:
 - Naive Bayes Classifier
 - Random Forest Classifier
 - Neural Network Classifier  
+
 The neural network classifier contains a custom loss function, which helps to deal with the dataset imbalance. The dataset is taken from Kaggle, and is also available in the Dataset folder. The citation for the dataset is available at the end of the repository.
 
 
